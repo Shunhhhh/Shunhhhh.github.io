@@ -8,21 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
+Educational experience
+======
+2023.9-2027.9 Ningbo University
+
+Research direction
+======
+Computer vision
+
+Honors and awards
 ======
 
 
-Getting started
-======
 
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
 
