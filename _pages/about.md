@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-### Educational experience
+### 🎓Educational experience
 
-2023.9-2027.9: Ningbo University
+- 2023.9-2027.9: Ningbo University
 
-### Research direction
+### 🔎Research direction
 
 Computer vision
 
-### Honors and awards
+### 🏆Honors and awards
 
 
 
