@@ -1,4 +1,17 @@
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.pdf binary
-*.zip binary
+*.pdf   binary
+*.zip   binary
+*.gz    binary
+*.tar   binary
+*.7z    binary
+*.docx  binary
+*.xlsx  binary
+*.pptx  binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.gif   binary
+*.mp4   binary
+*.mov   binary
+*.avi   binary
+*.mp3   binary
+*.wav   binary
