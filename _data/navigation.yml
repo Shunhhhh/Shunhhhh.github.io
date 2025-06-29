@@ -14,12 +14,12 @@ main:
     
   - title: "Publications"
     url: /publications/ 
-
+    
+  - title: "CV"
+    url: /cv/
     
   - title: "课程资料"
     url: /course-materials/
         
-    
-  - title: "CV"
-    url: /cv/
+
 
