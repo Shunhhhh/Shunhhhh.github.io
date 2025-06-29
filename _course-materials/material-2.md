@@ -7,4 +7,5 @@ excerpt: 包括数据结构、计组、操作系统、计网、机器学习、�
 ---
 
 ## 机器学习
-[点击下载课程资料 (PDF)](/files/machine learning.pdf)
+<a href="/files/machine learning.pdf" download>点击下载课程资料 (PDF)</a>
+
