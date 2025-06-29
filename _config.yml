@@ -224,7 +224,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  course-materials:
     output: true
     permalink: /:collection/:path/
 
@@ -241,7 +241,7 @@ defaults:
   # _project
   - scope:
       path: ""
-      type: publications
+      type: projections
     values:
       layout: single
       author_profile: true
