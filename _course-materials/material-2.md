@@ -6,30 +6,8 @@ permalink: /course-materials/material-2
 excerpt: 包括数据结构、计组、操作系统、计网、机器学习、汇编、算法、数据库、python、概率论、毛概、马原、习概
 ---
 所有课程资料均以zip格式上传，请自取。（建议科学上网）
+## 大二上
 
-## 数据结构
+## 大二下
+[点击](https://github.com/Shunhhhh/Shunhhhh.github.io/releases/tag/v2.2)下载课程资料。
 
-## 计算机组成原理
-
-## 操作系统
-
-## 计算机网络
-
-## 机器学习
-<a href="/files/course-materials/machine-learning.zip?version=2" download>点击下载课程资料</a>
-
-点击 [这里](https://github.com/Shunhhhh/Shunhhhh.github.io/releases/tag/v1.0) 下载大文件。
-
-## 汇编语言与接口技术
-
-## 算法设计
-
-## 硬件设计
-
-## 数据库
-
-## python
-
-## 概率论
-
-## 毛概、马原、习概
