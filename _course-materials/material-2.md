@@ -17,6 +17,7 @@ excerpt: 包括数据结构、计组、操作系统、计网、机器学习、�
 
 ## 机器学习
 <a href="/files/course-materials/machine-learning.zip?version=2" download>点击下载课程资料</a>
+点击 [这里]([https://github.com/username/repo/releases/download/v1.0/model.zip ](https://github.com/Shunhhhh/Shunhhhh.github.io/releases/tag/v1.0)) 下载课程资料。
 
 ## 汇编语言与接口技术
 
